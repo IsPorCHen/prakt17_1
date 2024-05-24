@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">prakt17_1</string>
+    <string name="addname">Ввод имени</string>
+    <string name="nameBox">Введите имя</string>
+</resources>
